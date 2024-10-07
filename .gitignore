@@ -1,10 +1,10 @@
-kaleidoo-Project/.idea/
-kaleidoo-Project/__pycache__
-kaleidoo-Project/temp
-kaleidoo-Project/good code
-kaleidoo-ProjectUI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/ecf49ae3-78ca-4d87-9cfc-b4c7ec020323.vsidx
-kaleidoo-ProjectUI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/a4751c44-6bbb-4339-a403-4e714e9bff7f.vsidx
-kaleidoo-ProjectUI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/3917f55d-d2a2-4b76-86b8-b2e86e44a4e6.vsidx
-kaleidoo-Project/.vs/*
-kaleidoo-Project/UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/0249ee28-af12-48ff-97c0-5d4127db42ae.vsidx
-kaleidoo-Project/UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/154361d1-b27e-4564-abf0-94c41396f3b8.vsidx
+/.idea/
+/__pycache__
+/temp
+/good code
+UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/ecf49ae3-78ca-4d87-9cfc-b4c7ec020323.vsidx
+UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/a4751c44-6bbb-4339-a403-4e714e9bff7f.vsidx
+UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/3917f55d-d2a2-4b76-86b8-b2e86e44a4e6.vsidx
+.vs/*
+UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/0249ee28-af12-48ff-97c0-5d4127db42ae.vsidx
+UI/StudyBuddyUI/.vs/StudyBuddyUI/FileContentIndex/154361d1-b27e-4564-abf0-94c41396f3b8.vsidx
