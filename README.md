@@ -28,8 +28,3 @@ Tel-Hai Study Buddy is an AI-driven application designed to assist students in t
 - **Database**: FAISS (Facebook AI Similarity Search) for vector-based searching.
 - **Frontend**: A simple and intuitive chat-based user interface (UI) for user interaction.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Scaleup-Excellenteam/kaleidoo-kaleidoo-team-3
