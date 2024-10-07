@@ -1,0 +1,37 @@
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\StudyBuddyUI.exe.config
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\StudyBuddyUI.exe
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\StudyBuddyUI.pdb
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.AssemblyReference.cache
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\MainWindow.g.cs
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\App.g.cs
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI_MarkupCompile.cache
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI_MarkupCompile.lref
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\MainWindow.baml
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.g.resources
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.Properties.Resources.resources
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.GenerateResource.cache
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.CoreCompileInputs.cache
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.exe
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.pdb
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.AssemblyReference.cache
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.SuggestedBindingRedirects.cache
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\MainWindow.g.cs
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\App.g.cs
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI_MarkupCompile.cache
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI_MarkupCompile.lref
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.exe
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.pdb
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\StudyBuddyUI.exe.config
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\StudyBuddyUI.exe
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\StudyBuddyUI.pdb
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\Newtonsoft.Json.dll
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\Newtonsoft.Json.xml
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\MainWindow.baml
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.g.resources
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.Properties.Resources.resources
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.GenerateResource.cache
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.CoreCompileInputs.cache
+C:\CS\Excellenteam Kaleidoo project\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.CopyComplete
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kfirl\Desktop\Kaleidoo\kaleidoo-kaleidoo-team-3\UI\StudyBuddyUI\StudyBuddyUI\obj\Debug\StudyBuddyUI.csproj.CopyComplete
